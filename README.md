@@ -1,3 +1,5 @@
-# README.md
+# Livro de receitas :man_cook:
 
-** Work in progress **
+Olá! Bem vindo ao meu livro de receitas :wave:
+
+* Strogonoff de Frango :chicken:
